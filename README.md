@@ -1,9 +1,7 @@
 
 ## Ejs_Implementation_Control_Methods
 
-### On this repository a Ejs Internal Model Control is avalaible. 
-
-The xml file contains the LABORATORIO VIRTUAL IMC simulation. 
+### The file LABORATORIO VIRTUAL IMC.xml On this repository, the Ejs, Internal Model Control Laboratry, is avalaible. 
 
 To run this simulation please donwload and install EJS EJS_4.3.6_120219.zip version on:
 
