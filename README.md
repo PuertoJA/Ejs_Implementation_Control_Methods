@@ -1,15 +1,14 @@
 
 ## Ejs_Implementation_Control_Methods
 
-### The file LABORATORIO VIRTUAL IMC.xml on this repository contains the Ejs-implementation of Internal Model Control Laboratry. To run this simulation please donwload and install EJS EJS_4.3.6_120219.zip version on:
+### The file LABORATORIO VIRTUAL IMC.xml on this repository contains the Ejs-implementation of Internal Model Control Laboratory. To run this simulation please download and install EJS EJS_4.3.6_120219.zip version on:
 
 https://www.um.es/fem/EjsWiki/Main/PreviousReleases
 
 Requires Java Runtime Environment (JRE) 1.5 or later.
 
 
-## This file provides the Ejs code used in Robust internal model control applied to a motorized pendulum as virtual
-## laboratory, in Visión Electrónica, v. 5 2010, pp. 77–88, which was developed with academic purposes. If you use the program in your research, paper or thesis, please cite as:
+## This file provides the Ejs code used in Robust internal model control applied to a motorized pendulum as a virtual laboratory, in Visión Electrónica, v. 5 2010, pp. 77–88, which was developed with academic purposes. If you use the program in your research, paper or thesis, please cite as:
 
 @InProceedings{puertovision2010,
 
